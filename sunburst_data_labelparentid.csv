@@ -1,0 +1,128 @@
+labels,parents,values,ids
+Social competence,,21,Social competence
+behavioral,Social competence,8,Social competence-behavioral
+observational,Social competence,1,Social competence-observational
+neurobiological,Social competence,2,Social competence-neurobiological
+questionnaires,Social competence,10,Social competence-questionnaires
+donating-money,Social competence-behavioral,1,Social competence-behavioral-donating-money
+donating-stickers,Social competence-behavioral,1,Social competence-behavioral-donating-stickers
+pcg,Social competence-behavioral,1,Social competence-behavioral-pcg
+pcg-owl,Social competence-behavioral,1,Social competence-behavioral-pcg-owl
+pcg-vignettes,Social competence-behavioral,1,Social competence-behavioral-pcg-vignettes
+self,Social competence-behavioral,1,Social competence-behavioral-self
+sally-ann,Social competence-behavioral,1,Social competence-behavioral-sally-ann
+dictator,Social competence-behavioral,1,Social competence-behavioral-dictator
+tsi-etch,Social competence-observational,1,Social competence-observational-tsi-etch
+fmri-pcg,Social competence-neurobiological,1,Social competence-neurobiological-fmri-pcg
+fmri-self,Social competence-neurobiological,1,Social competence-neurobiological-fmri-self
+ftq,Social competence-questionnaires,1,Social competence-questionnaires-ftq
+iri,Social competence-questionnaires,1,Social competence-questionnaires-iri
+mychild-emp,Social competence-questionnaires,1,Social competence-questionnaires-mychild-emp
+mychild-ob/ic,Social competence-questionnaires,1,Social competence-questionnaires-mychild-ob/ic
+mychild-guilt,Social competence-questionnaires,1,Social competence-questionnaires-mychild-guilt
+obvq,Social competence-questionnaires,1,Social competence-questionnaires-obvq
+seq,Social competence-questionnaires,1,Social competence-questionnaires-seq
+sev,Social competence-questionnaires,1,Social competence-questionnaires-sev
+srs,Social competence-questionnaires,1,Social competence-questionnaires-srs
+sdq,Social competence-questionnaires,1,Social competence-questionnaires-sdq
+Behavioral control,,19,Behavioral control
+behavioral,Behavioral control,11,Behavioral control-behavioral
+neurobiological,Behavioral control,2,Behavioral control-neurobiological
+questionnaires,Behavioral control,6,Behavioral control-questionnaires
+cheating-ball,Behavioral control-behavioral,1,Behavioral control-behavioral-cheating-ball
+cheating-dog,Behavioral control-behavioral,1,Behavioral control-behavioral-cheating-dog
+cheating-word,Behavioral control-behavioral,1,Behavioral control-behavioral-cheating-word
+dd-candy,Behavioral control-behavioral,1,Behavioral control-behavioral-dd-candy
+dd-marshmallow,Behavioral control-behavioral,1,Behavioral control-behavioral-dd-marshmallow
+dd-money,Behavioral control-behavioral,1,Behavioral control-behavioral-dd-money
+snat,Behavioral control-behavioral,1,Behavioral control-behavioral-snat
+snat-ec,Behavioral control-behavioral,1,Behavioral control-behavioral-snat-ec
+snat-s,Behavioral control-behavioral,1,Behavioral control-behavioral-snat-s
+stop-cars,Behavioral control-behavioral,1,Behavioral control-behavioral-stop-cars
+stop-arrows,Behavioral control-behavioral,1,Behavioral control-behavioral-stop-arrows
+eeg-snat,Behavioral control-neurobiological,1,Behavioral control-neurobiological-eeg-snat
+fmri-snat,Behavioral control-neurobiological,1,Behavioral control-neurobiological-fmri-snat
+cbq-ec,Behavioral control-questionnaires,1,Behavioral control-questionnaires-cbq-ec
+bisbas,Behavioral control-questionnaires,1,Behavioral control-questionnaires-bisbas
+drpi,Behavioral control-questionnaires,1,Behavioral control-questionnaires-drpi
+eatq-ec,Behavioral control-questionnaires,1,Behavioral control-questionnaires-eatq-ec
+tmcq-ec,Behavioral control-questionnaires,1,Behavioral control-questionnaires-tmcq-ec
+cerq,Behavioral control-questionnaires,1,Behavioral control-questionnaires-cerq
+Parenting,,14,Parenting
+interview,Parenting,1,Parenting-interview
+observational,Parenting,8,Parenting-observational
+questionnaires,Parenting,5,Parenting-questionnaires
+sbs,Parenting-interview,1,Parenting-interview-sbs
+fit,Parenting-observational,1,Parenting-observational-fit
+eveningmeal,Parenting-observational,1,Parenting-observational-eveningmeal
+etch,Parenting-observational,1,Parenting-observational-etch
+familygame,Parenting-observational,1,Parenting-observational-familygame
+freeplay,Parenting-observational,1,Parenting-observational-freeplay
+do,Parenting-observational,1,Parenting-observational-do
+dont,Parenting-observational,1,Parenting-observational-dont
+dodont,Parenting-observational,1,Parenting-observational-dodont
+paq,Parenting-questionnaires,1,Parenting-questionnaires-paq
+dailyhassles,Parenting-questionnaires,1,Parenting-questionnaires-dailyhassles
+ppq,Parenting-questionnaires,1,Parenting-questionnaires-ppq
+ps,Parenting-questionnaires,1,Parenting-questionnaires-ps
+pps,Parenting-questionnaires,1,Parenting-questionnaires-pps
+Neuro/physiological,,9,Neuro/physiological
+neurobiological,Neuro/physiological,2,Neuro/physiological-neurobiological
+physiological,Neuro/physiological,6,Neuro/physiological-physiological
+questionnaires,Neuro/physiological,1,Neuro/physiological-questionnaires
+eeg,Neuro/physiological-neurobiological,1,Neuro/physiological-neurobiological-eeg
+mri,Neuro/physiological-neurobiological,1,Neuro/physiological-neurobiological-mri
+zygosity,Neuro/physiological-physiological,1,Neuro/physiological-physiological-zygosity
+eartemperature,Neuro/physiological-physiological,1,Neuro/physiological-physiological-eartemperature
+hair,Neuro/physiological-physiological,1,Neuro/physiological-physiological-hair
+saliva-cheek,Neuro/physiological-physiological,1,Neuro/physiological-physiological-saliva-cheek
+saliva-passive,Neuro/physiological-physiological,1,Neuro/physiological-physiological-saliva-passive
+motionlogger,Neuro/physiological-physiological,1,Neuro/physiological-physiological-motionlogger
+pds,Neuro/physiological-questionnaires,1,Neuro/physiological-questionnaires-pds
+Environmental,,6,Environmental
+ambulatory,Environmental,2,Environmental-ambulatory
+observational,Environmental,1,Environmental-observational
+questionnaires,Environmental,3,Environmental-questionnaires
+dsa,Environmental-ambulatory,1,Environmental-ambulatory-dsa
+lena,Environmental-ambulatory,1,Environmental-ambulatory-lena
+chaos-obs,Environmental-observational,1,Environmental-observational-chaos-obs
+chaos,Environmental-questionnaires,1,Environmental-questionnaires-chaos
+id,Environmental-questionnaires,1,Environmental-questionnaires-id
+routine,Environmental-questionnaires,1,Environmental-questionnaires-routine
+Differential susceptibility,,6,Differential susceptibility
+behavioral,Differential susceptibility,1,Differential susceptibility-behavioral
+genetic,Differential susceptibility,1,Differential susceptibility-genetic
+questionnaires,Differential susceptibility,4,Differential susceptibility-questionnaires
+sensor-sync/music-task,Differential susceptibility-behavioral,1,Differential susceptibility-behavioral-sensor-sync/music-task
+genetic-markers,Differential susceptibility-genetic,1,Differential susceptibility-genetic-genetic-markers
+cbq-disc-f-p,Differential susceptibility-questionnaires,1,Differential susceptibility-questionnaires-cbq-disc-f-p
+eatq-disc-f-p,Differential susceptibility-questionnaires,1,Differential susceptibility-questionnaires-eatq-disc-f-p
+mtq/bam,Differential susceptibility-questionnaires,1,Differential susceptibility-questionnaires-mtq/bam
+tmcq-disc-f-p,Differential susceptibility-questionnaires,1,Differential susceptibility-questionnaires-tmcq-disc-f-p
+Family background,,7,Family background
+questionnaires,Family background,7,Family background-questionnaires
+atq,Family background-questionnaires,1,Family background-questionnaires-atq
+bsi,Family background-questionnaires,1,Family background-questionnaires-bsi
+demographics,Family background-questionnaires,1,Family background-questionnaires-demographics
+fad,Family background-questionnaires,1,Family background-questionnaires-fad
+ims,Family background-questionnaires,1,Family background-questionnaires-ims
+lifeevents,Family background-questionnaires,1,Family background-questionnaires-lifeevents
+pregnancy,Family background-questionnaires,1,Family background-questionnaires-pregnancy
+Additional,,14,Additional
+anthropometrics,Additional,3,Additional-anthropometrics
+cognitive,Additional,3,Additional-cognitive
+questionnaires,Additional,8,Additional-questionnaires
+headcircumference,Additional-anthropometrics,1,Additional-anthropometrics-headcircumference
+length,Additional-anthropometrics,1,Additional-anthropometrics-length
+weight,Additional-anthropometrics,1,Additional-anthropometrics-weight
+wisc,Additional-cognitive,1,Additional-cognitive-wisc
+wppsi,Additional-cognitive,1,Additional-cognitive-wppsi
+reading,Additional-cognitive,1,Additional-cognitive-reading
+hscs,Additional-questionnaires,1,Additional-questionnaires-hscs
+fam-bg,Additional-questionnaires,1,Additional-questionnaires-fam-bg
+sm,Additional-questionnaires,1,Additional-questionnaires-sm
+vas,Additional-questionnaires,1,Additional-questionnaires-vas
+wildman,Additional-questionnaires,1,Additional-questionnaires-wildman
+pandemic,Additional-questionnaires,1,Additional-questionnaires-pandemic
+pss,Additional-questionnaires,1,Additional-questionnaires-pss
+as3cq,Additional-questionnaires,1,Additional-questionnaires-as3cq
